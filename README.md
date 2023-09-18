@@ -1,2 +1,2 @@
 # core-java-project
-thisis desktop application
+this is desktop application
